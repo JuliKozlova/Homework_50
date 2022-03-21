@@ -8,7 +8,6 @@ public class GitHub3 {
         int random_number = c + (int) (Math.random() * b);
         System.out.println(random_number);
 
-
         int first = random_number/ 100;
         int secondBegin = random_number/ 10;
         int second = secondBegin % 10;

@@ -8,4 +8,5 @@ public class GitHub {
         } else System.out.println(n + " is odd");
     }
 
+
 }
