@@ -5,7 +5,6 @@ public class GitHub2 {
         double m = 5.7;
         double n = 16.8;
         int a = 10;
-
         double b = Math.abs(a-m);
         double c = Math.abs(a-n);
         if (b > c) {

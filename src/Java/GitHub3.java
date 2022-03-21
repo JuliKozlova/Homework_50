@@ -4,7 +4,6 @@ public class GitHub3 {
     public static void main(String[] args) {
         int c = 100;
         int b = 899;
-
         int random_number = c + (int) (Math.random() * b);
         System.out.println(random_number);
 

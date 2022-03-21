@@ -7,6 +7,4 @@ public class GitHub {
             System.out.println(n + " is even");
         } else System.out.println(n + " is odd");
     }
-
-
 }
