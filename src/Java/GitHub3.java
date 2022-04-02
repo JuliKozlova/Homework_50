@@ -15,7 +15,8 @@ public class GitHub3 {
             System.out.println (first);
         } else if (second > first && second > third) {
             System.out.println (second);
-        } else {
+        } else
+            {
             System.out.println (third);
         }
 
